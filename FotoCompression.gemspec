@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A Compression RubyGem for Fotomwa API.}
   spec.description   = %q{RubyGem that compresses Fotomwa Images for storage on the server.}
-  spec.homepage      = "https://github.com:Dav1dMwang1/FotoCompression.git"
+  spec.homepage      = "https://github.com/Dav1dMwang1/FotoCompression.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
     spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
     spec.metadata["homepage_uri"] = spec.homepage
-    spec.metadata["source_code_uri"] = "https://github.com:Dav1dMwang1/FotoCompression.git"
+    spec.metadata["source_code_uri"] = "https://github.com/Dav1dMwang1/FotoCompression.git"
     spec.metadata["changelog_uri"] = "https://github.com:Dav1dMwang1/FotoCompression/blob/master/CHANGELOG.md"
   else
     raise "RubyGems 2.0 or newer is required to protect against " \
